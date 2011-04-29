@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
   s.rubyforge_project = 'activerecord-sqlserver-adapter'
   
   s.add_dependency('activerecord', '~> 3.1.0')
-  s.add_dependency('arel', '~> 2.0.7')
+  s.add_dependency('arel', '~> 2.0.7.beta')
 end
 
